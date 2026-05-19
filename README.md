@@ -1,5 +1,4 @@
-# Project Title
-Spammy Subject Line Detector
+# Spammy Subject Line Detector
 Building AI course project
 
 ## Summary
