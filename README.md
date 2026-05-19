@@ -1,5 +1,6 @@
 # Project Title
 Spammy Subject Line Detector
+Building AI course project
 
 ## Summary
 A lightweight Python tool that calculates a "spam score" for email subject lines using heuristic keyword matching. It helps users quickly flag potentially malicious, promotional, or time-wasting emails before opening them.
